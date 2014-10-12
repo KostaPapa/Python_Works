@@ -1,0 +1,18 @@
+1970 - 1990 Summary Report
+
+The average percent change over all countries: 1.2644295302 %
+
+The countries with the three largest percentage change are: 
+Antigua and Barbuda, 1970-1990	8.30%
+Bhutan, 1970-1990	6.80%
+Botswana, 1970-1990	8.20%
+Kuwait, 1970-1990	-6.80%
+
+The countries with the three smallest percentage change are: 
+Benin, 1970-1990	0.00%
+Comoros, 1970-1990	0.10%
+Malawi, 1970-1990	-0.10%
+Middle East and North Africa, 1970-1990	-0.10%
+South Africa, 1970-1990	0.10%
+Sub-Saharan Africa, 1970-1990	-0.10%
+Sudan, 1970-1990	0.10%

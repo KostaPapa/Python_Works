@@ -1,0 +1,4 @@
+Below you will find information about a line.
+
+Starting Point of the segment is: ( 19.41650 , 46.23274 ) 
+Ending Point of the segment is: ( 678.22892 , 802.04159 )

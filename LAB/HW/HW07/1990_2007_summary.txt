@@ -1,0 +1,17 @@
+1990 - 2007 Summary Report
+
+The average percent change over all countries: 1.98518518519 %
+
+The countries with the three largest percentage change are: 
+Bosnia and Herzegovina, 1990-2007	10.80%
+China, 1990-2007	8.90%
+Equatorial Guinea, 1990-2007	21.10%
+
+The countries with the three smallest percentage change are: 
+Congo, 1990-2007	-0.20%
+Federated States of Micronesia, 1990-2007	-0.20%
+Gambia The, 1990-2007	0.20%
+Kenya, 1990-2007	0.00%
+Togo, 1990-2007	-0.20%
+Venezuela, 1990-2007	-0.20%
+Zambia, 1990-2007	0.10%
